@@ -1,0 +1,23 @@
+{
+  "name": "cevioaivcyomiage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "@discordjs/voice": "^0.15.0",
+    "discord.js": "^14.14.1",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.13",
+    "say": "^0.16.0",
+    "sodium": "^3.0.2",
+    "sodium-native": "^4.0.4",
+    "tweetnacl": "^1.0.3",
+    "winax": "file:node-activex"
+  }
+}
